@@ -3,6 +3,8 @@ Fundraising NFT project for the computer game
 
 <img src="https://github.com/StasivO/The-Engine-11/blob/main/Desert%20location.jpg" alt="" style="max-width: 50px;">
 
+<p>I'm a passionate artist who nerds out over NFTs to an extent I only have a few friends left. I'm excited about the launch of Litho and seeing the generative art bounty which said that even 'If coding is not your strong side but you love art and NFTs and want to show off your talent, we’re open to your submission too.', I knew I had to take a chance. </p>
+
 <h2>DESCRIPTION</h2>
 <p>The Engine 11 is a game about the alternative dark future of Earth after global warming.</p>
 <p>Despite all the humanity efforts, the temperature kept rising and so did the ocean level. The first century seemed like fun, catching a gondola instead of a taxi and fishing from your balcony, isn`t it a dream? But the reality was, the future of humanity was at the bottom of the ocean and the ocean was getting deeper and deeper every day</p>  
