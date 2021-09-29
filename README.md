@@ -18,6 +18,7 @@ You'll be playing as a Mech with the ability to Fly as there is plenty of open o
 
 <strong>Game specifics</strong>
 <p>This game is meant to be pretty moody with rainy and cloudy weather. Imagine furious storms and thousands of lightning in the open ocean where huge 40 meters waves crushing on remaining structures from the past. You'll often find yourself in a blood bath created by your own mech which will eventually change your hero.</p>
+<img src="https://github.com/StasivO/The-Engine-11/blob/main/robot%20prototype-Recovered.jpg" alt="" style="max-width: 50px;">
 
 
 <h2>ABOUT US</h2> 
