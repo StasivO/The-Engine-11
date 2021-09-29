@@ -10,9 +10,16 @@ Fundraising NFT project for the computer game
 <p>The first conflict broke berween Oceania and Indo-arabia I think the reason was a small volcatic iscland size of tenis court created by recent volcanic arruption, really jusy piece of land as you might guess. Soon after everyone was involved in this chaos and humanity finally plunged into darkness expecting to be eaten by The anglerfish of war. </p>
 <p>You`re going to be playing as a pilot of The Engine 11 the mech working on fusion energy. It`s highly suphisticated technology and reqiures to be neuro connected to pilot in order to rich maximum battle efficiency. Even thought you`re only one unit on the battlefield you`ll get the power to break lines and stop furious offensives just listen to your "Engine" it`ll help you to find the way.</p>
 <p>So far, there is three main locations: <strong>The Desert</strong> (Mainly old Africa territories recolonised by Indo-arabia and EUSR - remaining europian powers with Ukrain and Russia), <strong>Factoria polis</strong>(Huge city made of infinet factiries as far as you can see and "everything the light touches" is covered in mud and oil from factories that creat all sorts of war craft, besides, there is no Sunlight because of 10 km thick smog clouds), <strong>Spikes city</strong>( old Dubai city the main part of which is under the water, so you can only see Spikes of some skyscrapers</p>
-<p>Main purpose of the game is not to with the war though, but to not loos yourself</p>
+<p>Main purpose of the game is not to win the war though, but to not lose yourself</p>
+
 <strong>Gameplay</strong>
+You`ll be playing as a Mech with the ability to Fly as there is plenty of open ocean areas with occasional abandoned skyscrapers. The Engine will have an arsenal of different weapons that will allow you to deal with all sorts of units like infantry, tanks, fighters, etc. But don`t think that you`ll be just flying around and melting all the units around(yes you`ll have a weapon that allows to melt and cut huge ships) since you`re mech is one of the most advanced weapons you`ll be helping with undermining countries war economy by snicking into Factoria polis and destroying strategic objects. You`ll be ambushing enemies fleet by hiding in Burj Khalifa abandoned floors. But whether it`s going to be stealth tactics or hummer tactics only your choice.
+<strong>Game specifics</strong>
+<p>This game is meant to be pretty moody with rainy and cloudy weather. Imagine furious storms and thousands of lightning in the open ocean where huge 40 meters waves crushing on remaining structures from the past. You`ll often find yourself in a blood bath created by your own mech which will eventually change your hero.</p>
+
 
 <h2>ABOUT US</h2> 
-<p>We`re team two: concept and 3d/VFX artist. We`re all into geek world and our dream in to give this wold another story like Star Wars or perhaps World of tolkien's Middle-earth with it`s unique lenguiges and traditions.</p>
+<p>We`re team two: concept and 3d / VFX artist. We`re all into geeky stuff and our dream is to give this world another story like Star Wars or perhaps World of Tolkien's Middle-earth with its unique languages and traditions and profound story.</p>
 
+<p>We feel it`s a pretty decent idea that is worth people's attention but everything that we can currently do is creating a visual part of the game. So, we decided to run a Fundraising NFT campaign and try to get some money in order to start developing the actual game.</p>
+<p>Our plan is to create a collectiond with small Mech animations from different game locations. We already have </p>
