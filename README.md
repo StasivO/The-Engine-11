@@ -1,7 +1,7 @@
 # The-Engine-11
 Fundraising NFT project for the computer game
 
-<img src="https://github.com/StasivO/The-Engine-11/blob/main/Desert%20location.jpg" alt="" style="max-width: 50px;">
+<img src="https://github.com/StasivO/The-Engine-11/blob/main/robot%20prototype-Recovered.jpg" alt="" style="max-width: 50px;">
 
 <p>I'm a passionate artist who nerds out over NFTs to an extent I only have a few friends left. I'm excited about the launch of Litho and seeing the generative art bounty which said that even 'If coding is not your strong side but you love art and NFTs and want to show off your talent, we’re open to your submission too.', I knew I had to take a chance. </p>
 
@@ -20,7 +20,8 @@ You'll be playing as a Mech with the ability to Fly as there is plenty of open o
 
 <strong>Game specifics</strong>
 <p>This game is meant to be pretty moody with rainy and cloudy weather. Imagine furious storms and thousands of lightning in the open ocean where huge 40 meters waves are crushing on remaining structures from the past. You'll often find yourself in a blood bath created by your own mech which will eventually change your hero.</p>
-<img src="https://github.com/StasivO/The-Engine-11/blob/main/robot%20prototype-Recovered.jpg" alt="" style="max-width: 50px;">
+<img src="https://github.com/StasivO/The-Engine-11/blob/main/Desert%20location.jpg" alt="" style="max-width: 50px;">
+
 
 
 <h2>ABOUT US</h2> 
