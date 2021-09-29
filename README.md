@@ -13,6 +13,7 @@ Fundraising NFT project for the computer game
 <p> the Main purpose of the game is not to win the war though, but not to lose yourself</p>
 
 <strong>Gameplay</strong>
+
 You'll be playing as a Mech with the ability to Fly as there is plenty of open ocean areas with occasional abandoned skyscrapers. The Engine will have an arsenal of different weapons that will allow you to deal with all sorts of units like infantry, tanks, fighters, etc. But don't think that you'll be just flying around and melting all the units around(yes you'll have a weapon that allows to melt and cut huge ships) since you're mech is one of the most advanced weapons you'll be helping with undermining countries war economy by snicking into Factoria polis and destroying strategic objects. You'll be ambushing enemies fleet by hiding in Burj Khalifa abandoned floors. But whether it's going to be stealth tactics or hummer tactics only your choice.
 
 <strong>Game specifics</strong>
