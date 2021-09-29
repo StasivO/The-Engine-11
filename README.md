@@ -24,7 +24,7 @@ You'll be playing as a Mech with the ability to Fly as there is plenty of open o
 <h2>ABOUT US</h2> 
 <p>We`re a team of two: concept and 3d / VFX artists. We`re all into geeky stuff and our dream is to give this world another story like Star Wars or perhaps World of Tolkien's Middle-earth with its unique languages, traditions and profound story.</p>
 
-<p>We feel this idea is worth people's attention but everything that we can currently do is creating a visual part of the game. So, we decided to run a Fundraising NFT campaign exclusively on Litho and try to get some money in order to start developing the actual game and build the community around it.</p>
+<p>We feel this idea is worth people's attention but everything that we can currently do is creating a visual part of the game. So, we decided to run a fundraising NFT campaign exclusively on Litho to start developing the actual game, build the community around it and find the team.</p>
 <p>Our plan is to create a collection with small Mech animations from different game locations.  We`ve already started creating the 3d models in order to speed up scene compositing for the NFT project</p>
 
 <img src="https://github.com/StasivO/The-Engine-11/blob/main/11.jpg" alt="" style="max-width: 50px;">
