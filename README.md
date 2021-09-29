@@ -21,7 +21,7 @@ You'll be playing as a Mech with the ability to Fly as there is plenty of open o
 
 
 <h2>ABOUT US</h2> 
-<p>We`re team two: concept and 3d / VFX artist. We`re all into geeky stuff and our dream is to give this world another story like Star Wars or perhaps World of Tolkien's Middle-earth with its unique languages and traditions and profound story.</p>
+<p>We`re team of two: concept and 3d / VFX artists. We`re all into geeky stuff and our dream is to give this world another story like Star Wars or perhaps World of Tolkien's Middle-earth with its unique languages and traditions and profound story.</p>
 
 <p>We feel it`s a pretty decent idea that is worth people's attention but everything that we can currently do is creating a visual part of the game. So, we decided to run a Fundraising NFT campaign and try to get some money in order to start developing the actual game.</p>
 <p>Our plan is to create a collectiond with small Mech animations from different game locations.  We`ve already started creating of 3d models in order to speed up scene compositing for the NFT project</p>
