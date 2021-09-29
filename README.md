@@ -25,3 +25,5 @@ You'll be playing as a Mech with the ability to Fly as there is plenty of open o
 
 <p>We feel it`s a pretty decent idea that is worth people's attention but everything that we can currently do is creating a visual part of the game. So, we decided to run a Fundraising NFT campaign and try to get some money in order to start developing the actual game.</p>
 <p>Our plan is to create a collectiond with small Mech animations from different game locations.  We`ve already started creating of 3d models in order to speed up scene compositing for the NFT project</p>
+
+<img src="https://github.com/StasivO/The-Engine-11/blob/main/11.jpg" alt="" style="max-width: 50px;">
